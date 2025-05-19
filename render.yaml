@@ -1,9 +1,9 @@
 services:
 - type: pserv
-  repo: https://github.com/livekit-examples/pharmacy-agent
+  repo: https://github.com/sarathfrancis90/livekit-pharmacy-agent
 
   # Change this to the path containing your Dockerfile
-  rootDir: .
+  rootDir: livekit-pharmacy-agent
 
   name: pharmacy-agent
   runtime: image
